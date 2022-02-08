@@ -72,5 +72,6 @@
 				<version>3.0.0-M2</version>
 			</plugin>
 		</plugins>
+		<finalName>coronavirus-tracker</finalName>
 	</build>
 </project>
